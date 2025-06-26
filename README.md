@@ -52,6 +52,16 @@ pip install -r requirements.txt
 | 3    | Introduction to Hooking Non-MainActivity Variables  | [labs/lab3](labs/lab3) |
 | 4    | Hooking Non-MainActivity Variables for Flag         | [labs/lab4](labs/lab4) |
 
+
+## 🙏 Acknowledgements
+
+This workshop includes a pre-rooted AVD setup based on the amazing work by:
+
+- [newbit/rootAVD](https://gitlab.com/newbit/rootAVD)  
+- [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida)
+
+Huge thanks to both projects for making Android security research more accessible.
+
 ---
 
 Happy reversing! 🔍📱
