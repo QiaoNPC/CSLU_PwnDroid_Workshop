@@ -1,0 +1,5 @@
+frida==17.2.5
+frida-tools==14.3.0
+
+frida==17.0.7
+frida-tools==14.0.2
