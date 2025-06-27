@@ -51,6 +51,8 @@ pip install -r requirements.txt
 | 2    | Hooking Non-MainActivity Methods Flag               | [labs/lab2](labs/lab2) |
 | 3    | Introduction to Hooking Non-MainActivity Variables  | [labs/lab3](labs/lab3) |
 | 4    | Hooking Non-MainActivity Variables for Flag         | [labs/lab4](labs/lab4) |
+| 5    | Instantiating Unused Class for Flag                 | [labs/lab5](labs/lab5) |
+| 6    | Instantiating Unused Class with Parameter for Flag         | [labs/lab6](labs/lab6) |
 
 
 ## 🙏 Acknowledgements
